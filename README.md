@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on something cool.
+- 🎮 I love gaming.
+- 🌱 I’m currently learning Blazor.Net and Maui.Net
+
 <!--
 **rearintok/rearintok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
