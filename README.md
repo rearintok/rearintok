@@ -27,6 +27,7 @@ TECHNOLOGIES:
 
 [![photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.photoshop.com/)
 [![canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+[![filmora](https://img.shields.io/badge/Filmora-%2307273D?style=for-the-badge&logo=wondersharefilmora&logoColor=white)](https://filmora.wondershare.com/)
 
 [![qgis](https://img.shields.io/badge/QGIS-%23589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/)
 [![arcgis](https://img.shields.io/badge/ArcGIS-%232C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)](https://www.arcgis.com/home/index.html)
