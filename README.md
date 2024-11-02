@@ -18,6 +18,9 @@ TECHNOLOGIES:
 [![mysql](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![sqlite](https://img.shields.io/badge/sqlite-builtwith?style=for-the-badge&logo=sqlite&color=%23003B57)](https://www.sqlite.org/index.html)
 [![postgresql](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![mariadb](https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![sqlserver](https://img.shields.io/badge/SQL%20Server-%23ff1b1d?style=for-the-badge&logo=sqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
+[![firebird](https://img.shields.io/badge/Firebird%20SQL-%23f2ff0d?style=for-the-badge&logo=sqlserver&logoColor=white)](https://firebirdsql.org/)
 
 [![phpmyadmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
 [![xampp](https://img.shields.io/badge/XAMPP-%23FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
