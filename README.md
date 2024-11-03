@@ -12,6 +12,7 @@ TECHNOLOGIES:
 [![css](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![javascript](https://img.shields.io/badge/JAVASCRIPT-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![php](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![json](https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 [![xml](https://img.shields.io/badge/XML-%23005FAD?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/XML/)
 
