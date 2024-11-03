@@ -4,7 +4,7 @@
 - 🎮 I love gaming.
 - 🌱 I’m currently learning Blazor.Net and Maui.Net
 
-TECHNOLOGIES:
+***TECHNOLOGIES:***
 
 [![visual basic](https://img.shields.io/badge/VISUAL%20BASIC-%23512BD4?style=for-the-badge&logo=dotnet)](https://learn.microsoft.com/en-us/dotnet/visual-basic/getting-started/)
 [![c sharp](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/languages/csharp)
@@ -23,6 +23,8 @@ TECHNOLOGIES:
 [![sqlserver](https://img.shields.io/badge/SQL%20Server-%23ff1b1d?style=for-the-badge&logo=sqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
 [![firebird](https://img.shields.io/badge/Firebird%20SQL-%23f2ff0d?style=for-the-badge&logo=sqlserver&logoColor=white)](https://firebirdsql.org/)
 
+[![visual studio](https://img.shields.io/badge/visual%20studio-purple?style=for-the-badge&logoColor=white)](https://visualstudio.microsoft.com/)
+[![vs code](https://img.shields.io/badge/vs%20code-%230078d4?style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
 [![phpmyadmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
 [![xampp](https://img.shields.io/badge/XAMPP-%23FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://www.apachefriends.org/index.html)
 [![git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
@@ -37,8 +39,10 @@ TECHNOLOGIES:
 [![arcgis](https://img.shields.io/badge/ArcGIS-%232C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)](https://www.arcgis.com/home/index.html)
 [![google earth](https://img.shields.io/badge/Google%20Earth-%234285F4?style=for-the-badge&logo=googleearth&logoColor=white)](https://earth.google.com/)
 
+[![windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logoColor=white)](https://www.microsoft.com/)
 [![kali](https://img.shields.io/badge/Kali%20Linux-%23FCC624?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![mac os](https://img.shields.io/badge/mac%20OS-%23000000?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/mac/)
 
 
 
