@@ -15,7 +15,7 @@
 [![python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![json](https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
 [![xml](https://img.shields.io/badge/XML-%23005FAD?style=for-the-badge&logo=xml&logoColor=white)](https://www.w3.org/XML/)
-[![bootstrap](https://img.shields.io/badge/Bootsrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![wordpress](https://img.shields.io/badge/Word%20Press-%2321759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.com/)
 
 [![mysql](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
