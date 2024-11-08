@@ -4,7 +4,7 @@
 - 🎮 I love gaming.
 - 🌱 I’m currently learning Blazor.Net and Maui.Net
 
-***TECHNOLOGIES:***
+***TOOLS & TECHNOLOGIES:***
 
 [![visual basic](https://img.shields.io/badge/VISUAL%20BASIC-%23512BD4?style=for-the-badge&logo=dotnet)](https://learn.microsoft.com/en-us/dotnet/visual-basic/getting-started/)
 [![c sharp](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/en-us/languages/csharp)
